@@ -1,0 +1,57 @@
+#  Check the Given No is Negative or Positive
+
+#Example 1
+# Number=-20
+
+#if Number>=0:
+#     print("Positive Number")
+# else:
+#     print("Nigative Number")
+
+#Check the largest 2 Numbers
+
+# a=200
+# b=190
+#
+# if (a>=b):
+#     print(f"largest number {a}")
+# else:
+#     print(f"The largest no is {b}")
+
+#Check the largest 3 Numbers
+
+# a=19999
+# b=190
+# c=9099999
+#
+# if (a>b) and (a>c):
+#     print(f"largest number {a}")
+# elif (b>a) and (b>c):
+#     print(f"largest number {b}")
+# else:
+#     print(f"The largest no is {c}")
+
+#Print week number if you provide week as name
+
+Weekname= "dfthgj"
+
+if Weekname =="Sunday":
+    print("Welcome to Sunday week 7")
+elif Weekname =="Monday":
+    print("Welcome to Monday week 1")
+elif Weekname =="Tuesday":
+    print("Welcome to Tuesday week 2")
+elif Weekname == "Wednesday":
+    print("Welcome to Thursday week 3")
+elif Weekname =="Thursday":
+    print("Welcome to Wednesday week 4")
+elif Weekname =="Friday":
+    print("Welcome to Friday week 5")
+else:
+    print("Welcome to Unknown week 6")
+
+# Run="SF"
+# if Run=="SF":
+#     print("Sunday")
+# else:
+#     print("Monday")
